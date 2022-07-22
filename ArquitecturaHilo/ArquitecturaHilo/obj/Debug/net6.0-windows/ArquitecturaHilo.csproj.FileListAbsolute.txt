@@ -1,0 +1,17 @@
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\bin\Debug\net6.0-windows\ArquitecturaHilo.exe
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\bin\Debug\net6.0-windows\ArquitecturaHilo.deps.json
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\bin\Debug\net6.0-windows\ArquitecturaHilo.runtimeconfig.json
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\bin\Debug\net6.0-windows\ArquitecturaHilo.dll
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\bin\Debug\net6.0-windows\ArquitecturaHilo.pdb
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\obj\Debug\net6.0-windows\ArquitecturaHilo.csproj.AssemblyReference.cache
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\obj\Debug\net6.0-windows\ArquitecturaHilo.Form1.resources
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\obj\Debug\net6.0-windows\ArquitecturaHilo.csproj.GenerateResource.cache
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\obj\Debug\net6.0-windows\ArquitecturaHilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\obj\Debug\net6.0-windows\ArquitecturaHilo.AssemblyInfoInputs.cache
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\obj\Debug\net6.0-windows\ArquitecturaHilo.AssemblyInfo.cs
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\obj\Debug\net6.0-windows\ArquitecturaHilo.csproj.CoreCompileInputs.cache
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\obj\Debug\net6.0-windows\ArquitecturaHilo.dll
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\obj\Debug\net6.0-windows\refint\ArquitecturaHilo.dll
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\obj\Debug\net6.0-windows\ArquitecturaHilo.pdb
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\obj\Debug\net6.0-windows\ArquitecturaHilo.genruntimeconfig.cache
+C:\Users\gomez\Source\Repos\ArquitecturaHilo\ArquitecturaHilo\obj\Debug\net6.0-windows\ref\ArquitecturaHilo.dll
